@@ -1,10 +1,12 @@
 
 {
   "videos": [
-    { "DatabaseVideo(url": "https://www.youtube.com/watch?v=sYGKUtM2ga8",
+    {
+      "url": "https://www.youtube.com/watch?v=sYGKUtM2ga8",
       "updated": "2018-06-07T17:09:43+00:00",
       "title" : "Android Jetpack: EmojiCompat",
       "description": "With the EmojiCompat library, part of Jetpack, your app can get backwards-compatible emoji support on devices with API level 19 and higher and get rid of the blank square characters. To use EmojiCompat, initialize the library when the application starts by using downloadable or bundled fonts. Start supporting emojis in your text views, either by integrating the provided widgets or update your custom views by using the provided helper classes. For more information: EmojiCompat guide → https://goo.gl/7bEoXB EmojiCompat sample app → https://goo.gl/7bEoXB Google I/O 2017 talk on “What’s new in Support Library” → https://goo.gl/KeRvqB Watch more Android Jetpack videos here → https://goo.gl/kw8LPv Subscribe to the Android Developers channel here → https://goo.gl/vLYDU #jetpack #featured",
-      "thumbnail": "https://i4.ytimg.com/vi/sYGKUtM2ga8/hqdefault.jpg)" }
+      "thumbnail": "https://i4.ytimg.com/vi/sYGKUtM2ga8/hqdefault.jpg"
+    }
   ]
 }
