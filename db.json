@@ -2,18 +2,18 @@
 {
   "videos": [
     {
-      "title": "Android Jetpack: EmojiCompat",
-      "description": "With the EmojiCompat library, part of Jetpack, your app can get backwards-compatible emoji support on devices with API level 19 and higher and get rid of the blank square characters. To use EmojiCompat, initialize the library when the application starts by using downloadable or bundled fonts. Start supporting emojis in your text views, either by integrating the provided widgets or update your custom views by using the provided helper classes. \n\nFor more information:\nEmojiCompat guide → https://goo.gl/7bEoXB \nEmojiCompat sample app → https://goo.gl/7bEoXB \nGoogle I/O 2017 talk on “What’s new in Support Library” → https://goo.gl/KeRvqB\n\nWatch more Android Jetpack videos here → https://goo.gl/kw8LPv\n\nSubscribe to the Android Developers channel here → https://goo.gl/vLYDU\n\n#jetpack #featured",
-      "url": "https://www.youtube.com/watch?v=sYGKUtM2ga8",
-      "updated": "2018-06-07T17:09:43+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/sYGKUtM2ga8/hqdefault.jpg"
+      "title": "2022 Corvette C8 Z06 Spy Shots and Exhaust SOUND! *Mid Engine Corvette*",
+      "description": "The 2022 Corvette and the much anticipated brother the Z06! Get to see spy shot of the 2022 Z06, and listen to the throaty exhaust note as it zips by our cameras!",
+      "url": "https://www.youtube.com/watch?v=jmKNnL9iI2A",
+      "updated": "2020-08-19T17:09:43+00:00",
+      "thumbnail": "https://www.youtube.com/watch?v=jmKNnL9iI2A/hqdefault.jpg"
     },
     {
-      "title": "Android Jetpack: Room",
-      "description": "Florina Muntenescu introduces Room, the database persistence library for Jetpack. Room allows you to:\n* write less boilerplate code\n* map query results to objects automatically\n* provide compile-time checked queries \n* test database operations, including migrations, more easily\n* avoid performing any database operations on the main thread \n\nTake a look at the resources below for more information!\n\nGoogle I/O Room Talk → https://goo.gl/Zumb6a\nRoom persistence library guide → https://goo.gl/s23p8y\nArchitecture Components code samples → https://goo.gl/xuAQQi\nPersistence Codelabs → https://goo.gl/AMwWvx\nIncrementally migrate from SQLite to Room → https://goo.gl/cDCFyN\n7 Pro-tips for Room → https://goo.gl/Kfkzvw\nRoom with a View codelab → https://goo.gl/b8KjA2\n\nWatch more Android Jetpack videos here → https://goo.gl/kw8LPv\n\nSubscribe to the Android Developers channel here → https://goo.gl/vLYDU\n\n#jetpack #featured",
-      "url": "https://www.youtube.com/watch?v=SKWh4ckvFPM",
-      "updated": "2018-06-04T16:57:23+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/SKWh4ckvFPM/hqdefault.jpg"
+      "title": "Here’s Why the 2020 Chevy Corvette C8 Is The Hottest Car of the Year\n\n",
+      "description": "The 2020 Chevy Corvette C8 is the hottest car of the year -- by far. Today I'm going to review the new C8 Corvette, and I'm going to take you on a tour of the new 2020 Corvette. Then I'm going to drive the 2020 C8 Corvette and tell you what it's like on the road.",
+      "url": "https://www.youtube.com/watch?v=yZT3hyhao-o",
+      "updated": "2020-03-17T16:57:23+00:00",
+      "thumbnail": "https://www.youtube.com/watch?v=yZT3hyhao-o/hqdefault.jpg"
     }
   ]
 }
